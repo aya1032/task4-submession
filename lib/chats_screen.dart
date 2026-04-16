@@ -52,7 +52,7 @@ class ChatsScreen extends StatelessWidget {
 
                     subtitle: Row(
                       children: [
-                        // ✔✔ تظهر فقط لو أنا اللي باعت الرسالة
+                       
                         if (chat.isMe) ...[
                           Icon(
                             getIcon(chat.status),
