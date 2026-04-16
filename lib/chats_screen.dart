@@ -87,7 +87,7 @@ class ChatsScreen extends StatelessWidget {
           ],
         ),
 
-        // زرار الرسائل
+        
         Positioned(
           bottom: 20,
           right: 20,
